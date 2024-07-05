@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .first{
+            margin-left: 500px;
+            padding: 20px;
+        }
+        .first img{
+            border: 2px solid black;
+        }
+        .sec img{
+            border: 2px solid black;
+        }
+        .third img{
+            border: 2px solid black;
+        }
+    
+
+        .sec{
+            margin-left: 500px;
+            padding: 20px;
+        }
+        .third{
+            margin-left: 500px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="first">
+    <img src="T:\Codes\Task3\Assets\Angel.png" alt="" style="width: 300px;height: 300px;">
+    <img src="T:\Codes\Task3\Assets\Angel.png" alt="" style="width: 300px;height: 300px;">
+    <img src="T:\Codes\Task3\Assets\Angel.png" alt="" style="width: 300px;height: 300px;">
+    </div>
+    <div class="sec">
+    <img src="T:\Codes\Task3\Assets\Angel.png" alt="" style="width: 300px;height: 300px;">
+    <img src="T:\Codes\Task3\Assets\Angel.png" alt="" style="width: 300px;height: 300px;">
+    <img src="T:\Codes\Task3\Assets\Angel.png" alt="" style="width: 300px;height: 300px;">
+    </div>
+    <div class="third">
+    <img src="T:\Codes\Task3\Assets\Angel.png" alt="" style="width: 300px;height: 300px;">
+    <img src="T:\Codes\Task3\Assets\Angel.png" alt="" style="width: 300px;height: 300px;">
+    <img src="T:\Codes\Task3\Assets\Angel.png" alt="" style="width: 300px;height: 300px;">
+    </div>
+</body>
+</html>
